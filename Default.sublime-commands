@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Base64 Encode Selection",
+        "command": "base64_encode"
+    },
+    {
+        "caption": "Base64 Decode Selection",
+        "command": "base64_decode"
+    }
+]
